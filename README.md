@@ -21,18 +21,17 @@ Ghosting associe une application iOS à un serveur compagnon sur ton ordinateur 
 - **Recherche de lieux** : Suggestions automatiques pour les villes, adresses et points d'intérêt.
 - **Favoris** : Enregistrement et gestion de tes lieux fréquents.
 - **Affichage carte** : Ta position réelle reste visible sur la carte pendant la simulation.
-- **Live Activity** : Suivi du lieu simulé sur l'écran de verrouillage et dans la Dynamic Island.
 - **Connexion automatique** : Détection du Mac sur le réseau local via Bonjour (saisie manuelle IP/Port disponible).
 
 ### Ghosting Server (macOS)
-- **Changement de position à distance** : Application instantanée des coordonnées envoyées par l'application iOS via `pymobiledevice3`.
+- **Changement de position** : Application instantanée des coordonnées envoyées par l'application iOS via `pymobiledevice3`.
 - **Détection automatique** : Le Mac s'annonce sur le réseau local.
 - **Configuration simplifiée** : Détection de Python et installation automatique des dépendances (`Flask`, `pymobiledevice3`).
 - **Arrêt propre** : Rétablissement automatique de la vraie position GPS à la fermeture du serveur.
 
 ## Prérequis
 
-- Un **Mac** sous macOS avec Python 3.9 ou supérieur.
+- Un **Mac** sous macOS (ARM64) avec Python 3.9 ou supérieur.
 - Un **iPhone** sur le même réseau Wi-Fi que le Mac.
 - Le **Mode Développeur** activé sur l'iPhone.
 - Un premier appairage effectué en **USB** pour accorder la confiance à l'ordinateur.
