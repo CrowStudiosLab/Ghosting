@@ -1,18 +1,25 @@
-CrowStudios Source-Available Non-Commercial License
+CrowStudios Source-Available Non-Commercial License (CS-SNCL)
 
 Copyright (c) 2026 CrowStudios
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to view,
-study, and use the Software for personal, educational, or evaluation purposes, 
-subject to the following conditions:
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, and/or permit persons to 
+whom the Software is furnished to do so, subject to the following conditions:
 
-1. The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice, this permission notice, and the non-commercial 
+restriction shall be included in all copies or substantial portions of the Software.
 
 2. RESTRICTION: The Software, its source code, or any derivative works created 
 from it CANNOT be used for commercial purposes, monetization, SaaS integration, 
-or business operations without explicit prior written permission from CrowStudios. 
+internal business operations, or any revenue-generating activities without 
+explicit prior written permission from CrowStudios.
+
+3. TRADEMARK: This license does not grant any right to use the trademarks, service 
+marks, logos, or project names of CrowStudios (including "CrowStudios" and its 
+associated project names) to endorse or promote derivative works in a way that 
+implies official affiliation or authorship by CrowStudios.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
